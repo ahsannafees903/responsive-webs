@@ -21,6 +21,6 @@ A modern and responsive website designed for a travel agency to showcase service
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/travel-agency-website.git
+   git clone <repository_url>
    ```
    <img src="./../images/tavel aganecy image_original.png" alt="tavel aganecy Preview" width="300"/>
