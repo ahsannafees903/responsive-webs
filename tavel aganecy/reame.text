@@ -1,0 +1,28 @@
+/travel-agency
+├── /css
+├── /js
+├── /img
+├── index.html
+├── /pages
+└── /components
+/travel-agency
+├── /assets
+│   ├── /css
+│   │   └── style.css
+│   ├── /js
+│   │   └── main.js
+│   ├── /img
+│   └── /fonts
+├── /components
+│   ├── header.html
+│   ├── footer.html
+│   └── navbar.html
+├── /pages
+│   ├── home.html
+│   ├── destinations.html
+│   ├── services.html
+│   ├── about.html
+│   └── contact.html
+├── index.html
+└── /templates
+    └── base.html
