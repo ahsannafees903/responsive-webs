@@ -1,10 +1,5 @@
-<<<<<<< HEAD
-# Responsive Watches Website - README
-=======
 # Responsive Watches Website ⌚
 
-### Responsive Watches Website ⌚
->>>>>>> 4c0918d3cfa96964c2965cd61f2dc275329d5354
 
 This README file provides an overview of the "Responsive Watches Website" project, its features, structure, and setup instructions.
 
