@@ -3,7 +3,7 @@
 
 This README file provides an overview of the "Responsive Watches Website" project, its features, structure, and setup instructions.
 
-<<<<<<< HEAD
+
 ## Project Overview
 
 The "Responsive Watches Website" is a visually appealing and user-friendly e-commerce platform for showcasing and selling a variety of luxury watches. The website is fully responsive, ensuring optimal viewing and interaction on any device, including desktops, tablets, and smartphones.
