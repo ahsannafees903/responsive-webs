@@ -29,14 +29,14 @@ Project Overview: Designed a responsive travel agency website with a visually ca
   👁️ View Project
 </a>
 
-<img src="images/tavel aganecy image_original.pngl" alt="Travel Agency Preview" width="300"/>
+<img src="images/tavel aganecy image_original.png" alt="Travel Agency Preview" width="300"/>
 
 **Skills Used:**  
-Responsive UI with Bootstrap
-Custom CSS
-JS Interactivity
-Optimized Media
-Cross-Browser Support.
+`Responsive UI with Bootstrap`
+`Custom CSS`
+`JS Interactivity`
+`Optimized Media`
+`Cross-Browser Support`
 
 ---
 
@@ -52,11 +52,11 @@ Developed a sleek and responsive e-commerce landing page for TechGear Hub, focus
 <img src="images/TechGear Hub - Cutting-Edge Tech Gadgets.png" alt="Portfolio Website Preview" width="300"/>
 
 **Skills Used:**
-Responsive UI with Bootstrap
-Custom CSS
-JS Interactivity
-Optimized Media
-Cross-Browser Support.
+`Responsive UI with Bootstrap`
+`Custom CSS`
+`JS Interactivity`
+`Optimized Media`
+`Cross-Browser Support.`
 
 ---
 
@@ -72,10 +72,10 @@ Developed a responsive and visually appealing website for Sidcup Family Golf, in
 
 **Skills Used:**
 Responsive Design
-HTML
-CSS
-SEO Strategy
-UI/UX Prototyping.
+`HTML`
+`CSS`
+`SEO Strategy`
+`UI/UX Prototyping.`
 
 ---
 
@@ -92,11 +92,11 @@ Implemented features like product filtering, dynamic image galleries, and smooth
 <img src="images/Shoes Collection Website.png" alt="Portfolio Website Preview" width="300"/>
 
 **Skills Used:**
-Bootstrap
-JavaScript
-HTML5
-CSS
-UI/UX Prototyping.
+`Bootstrap`
+`JavaScript`
+`HTML5`
+`CSS`
+`UI/UX Prototyping.`
 
 ---
 
