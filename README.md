@@ -68,7 +68,7 @@ Developed a responsive and visually appealing website for Sidcup Family Golf, in
 👁️ View Project
 </a>
 
-<img src="https://via.placeholder.com/300" alt="Portfolio Website Preview" width="300"/>
+<img src="images/Sidcup Family Golf - Interactive Golf Experience.png" alt="Portfolio Website Preview" width="300"/>
 
 **Skills Used:**
 Responsive Design
