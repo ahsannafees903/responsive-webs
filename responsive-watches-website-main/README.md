@@ -93,15 +93,9 @@ To deploy the project:
 
 ---
 
-For further assistance or inquiries, please contact [your_email@example.com].
+For further assistance or inquiries, please contact [ahsan.nafeed.dev.com].
 
 ```
-
-```
-
-<img src="./../images/wacht  wrbsite.jpg" alt="Luxury Watch Collection Preview" width="300"/>
-=======
-Join the channel to see more videos like this.
 
 (<img src="./../images/wacht  wrbsite.jpg" alt="Luxury Watch Collection Preview" width="300"/>)
 >>>>>>> 4c0918d3cfa96964c2965cd61f2dc275329d5354
