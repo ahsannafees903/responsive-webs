@@ -102,10 +102,6 @@ UI/UX Prototyping.
 
 ## Notes
 
-- **Eye Icon Link:** The 👁️ icon serves as a clickable link to view the full project details. Replace the URL in `href` if you have a specific link for each project.
-
-### Folder Structure
-
-Ensure that your images are in the correct folder structure within your repository.
+- **Eye Icon Link:** The 👁️ icon serves as a clickable link to view the full project details. 
 
 ---
