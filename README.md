@@ -13,7 +13,7 @@ Designed and developed a sleek and responsive e-commerce website for a luxury wa
   👁️ View Project
 </a>
 
-<img src="https://github.com/ahsannafees903/porfolio/blob/Portmain/images/wacht%20%20wrbsite.jpg" alt="Luxury Watch Collection Preview" width="300"/>
+<img src="images/wacht  wrbsite.jpg" alt="Luxury Watch Collection Preview" width="300"/>
 
 **Skills Used:**  
 `Responsive Design` `Bootstrap` `HTML5` `CSS` `JavaScript`
@@ -29,7 +29,7 @@ Project Overview: Designed a responsive travel agency website with a visually ca
   👁️ View Project
 </a>
 
-<img src="https://github.com/ahsannafees903/responsive-webs/blob/main/images/tavel%20aganecy%20image_original" alt="Travel Agency Preview" width="300"/>
+<img src="images/tavel aganecy image_original.pngl" alt="Travel Agency Preview" width="300"/>
 
 **Skills Used:**  
 Responsive UI with Bootstrap
@@ -49,7 +49,7 @@ Developed a sleek and responsive e-commerce landing page for TechGear Hub, focus
   👁️ View Project
 </a>
 
-<img src="https://github.com/ahsannafees903/responsive-webs/blob/main/images/TechGear%20Hub%20-%20Cutting-Edge%20Tech%20Gadgets" alt="Portfolio Website Preview" width="300"/>
+<img src="images/TechGear Hub - Cutting-Edge Tech Gadgets.png" alt="Portfolio Website Preview" width="300"/>
 
 **Skills Used:**
 Responsive UI with Bootstrap
@@ -79,7 +79,7 @@ UI/UX Prototyping.
 
 ---
 
-### Project 4: Shoes Collection Website
+### Project 5: Shoes Collection Website
 
 **Project Description:**  
 Developed a Shoes Collection website with a focus on responsive design, user interface, and seamless browsing experience
@@ -89,7 +89,7 @@ Implemented features like product filtering, dynamic image galleries, and smooth
   👁️ View Project
 </a>
 
-<img src="https://via.placeholder.com/300" alt="Portfolio Website Preview" width="300"/>
+<img src="images/Shoes Collection Website.png" alt="Portfolio Website Preview" width="300"/>
 
 **Skills Used:**
 Bootstrap
