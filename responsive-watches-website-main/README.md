@@ -10,4 +10,4 @@
 
 Join the channel to see more videos like this.
 
-![preview img](images/wacht  wrbsite.jpg)
+![preview img](<img src="images/wacht  wrbsite.jpg" alt="Luxury Watch Collection Preview" width="300"/>)
