@@ -1,7 +1,14 @@
+<<<<<<< HEAD
 # Responsive Watches Website - README
+=======
+# Responsive Watches Website ⌚
+
+### Responsive Watches Website ⌚
+>>>>>>> 4c0918d3cfa96964c2965cd61f2dc275329d5354
 
 This README file provides an overview of the "Responsive Watches Website" project, its features, structure, and setup instructions.
 
+<<<<<<< HEAD
 ## Project Overview
 
 The "Responsive Watches Website" is a visually appealing and user-friendly e-commerce platform for showcasing and selling a variety of luxury watches. The website is fully responsive, ensuring optimal viewing and interaction on any device, including desktops, tablets, and smartphones.
@@ -98,3 +105,8 @@ For further assistance or inquiries, please contact [your_email@example.com].
 ```
 
 <img src="./../images/wacht  wrbsite.jpg" alt="Luxury Watch Collection Preview" width="300"/>
+=======
+Join the channel to see more videos like this.
+
+(<img src="./../images/wacht  wrbsite.jpg" alt="Luxury Watch Collection Preview" width="300"/>)
+>>>>>>> 4c0918d3cfa96964c2965cd61f2dc275329d5354
